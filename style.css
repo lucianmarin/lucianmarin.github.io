@@ -16,11 +16,16 @@ blue dark	- 2d3e4b
 
 */
 
+html {
+-webkit-text-size-adjust: none; /* Prevent font scaling in landscape */
+}
+
 body {
 background-color: #2d3e4b;
 color: #445a6a;
 font-family: "Roboto", Helvetica, Arial, sans-serif;
 font-size: 14px;
+text-rendering: optimizeLegibility;
 }
 
 * {

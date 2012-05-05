@@ -2,6 +2,7 @@
 
 html {
 height: 100%;
+-webkit-text-size-adjust: none; /* Prevent font scaling in landscape */
 }
 
 body {
