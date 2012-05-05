@@ -101,17 +101,10 @@ color: #def;
 }
 
 @media (max-width: 625px) {
-
-#wrap {
-width: 80%;
-}
-
+#wrap { width: 80%; }
 }
 
 @media (max-width: 320px) {
-
-#wrap {
-width: 280px;
-}
-
+#wrap { width: 280px; }
+h1 span { display: none; }
 }
