@@ -61,19 +61,20 @@ h1 a {
 color: #445a6a;
 }
 
-.intro {
-background-color: #fff;
-border-top-left-radius: 10px;
-border-top-right-radius: 10px;
-padding: 15px 20px;
-border-bottom: #ff625a 2px solid;
-font-size: 18px;
-}
-
 .main {
 background-color: #e4edea;
-border-bottom-left-radius: 10px;
-border-bottom-right-radius: 10px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0,0,0,0.6);
+}
+
+
+.intro {
+background-color: #fff;
+padding: 15px 20px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom: #ff625a 2px solid;
+font-size: 18px;
 }
 
 .entry {
