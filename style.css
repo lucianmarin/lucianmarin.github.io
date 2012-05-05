@@ -14,7 +14,8 @@ blue dark	- 2d3e4b
 */
 
 body {
-background: #202122 url(neverland.jpg) top center no-repeat fixed;
+background: #202122 url(neverland.jpg) no-repeat fixed;
+background-size: cover;
 color: #424344;
 font-family: "Roboto", Helvetica, Arial, sans-serif;
 font-size: 13px;
