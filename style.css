@@ -3,7 +3,7 @@
 
 /* http://kuler.adobe.com/#themeID/230215 */
 
-/* color scheme *
+/* color scheme
 
 blue		- 445a6a
 red 		- ff625a
@@ -11,18 +11,25 @@ blue thin	- e5edeb
 blue light	- c2d1d3
 blue dark	- 2d3e4b
 
+#e4edea
+
+
 */
 
 body {
 background-color: #2d3e4b;
-color: #c2d1d3;
+color: #445a6a;
 font-family: "Roboto", Helvetica, Arial, sans-serif;
-font-size: 16px;
+font-size: 14px;
 }
 
 * {
 margin: 0;
 padding: 0;
+}
+
+a {
+text-decoration: none;
 }
 
 #wrap {
@@ -33,4 +40,70 @@ margin: 0 auto;
 h1 {
 font-size: 72px;
 font-weight: 100;
+margin-top: 18px;
+margin-bottom: 18px;
+color: #e5edeb;
+white-space: nowrap;
+overflow: hidden;
+}
+
+h1 span {
+font-size: 24px;
+color: #445a6a;
+}
+
+h1 a {
+color: #445a6a;
+}
+
+.intro {
+background-color: #fff;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+padding: 15px 20px;
+border-bottom: #ff625a 2px solid;
+font-size: 20px;
+}
+
+.main {
+background-color: #e4edea;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.entry {
+padding: 15px 20px;
+}
+
+.odd {
+background-color: #c2d1d3;
+}
+
+.entry h3 {
+font-size: 20px;
+font-weight: normal;
+margin-bottom: 5px;
+}
+
+.entry p span {
+opacity: 0.8;
+}
+
+.foot {
+padding: 15px 20px;
+color: #ddd;
+opacity: 0.5;
+font-size: 12px;
+}
+
+.foot a {
+color: #def;
+}
+
+@media (max-width: 625px) {
+
+#wrap {
+width: 80%;
+}
+
 }
