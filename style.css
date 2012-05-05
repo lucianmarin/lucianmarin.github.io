@@ -118,16 +118,22 @@ color: #ff625a;
 padding: 15px 20px;
 margin-bottom: 10px;
 color: #ddd;
-opacity: 0.5;
 font-size: 12px;
 }
 
 .foot p {
+opacity: 0.5;
 margin-bottom: 8px;
 }
 
 .foot a {
 color: #def;
+}
+
+.foot p.logo {
+opacity: 1;
+padding-top: 8px;
+text-align: center;
 }
 
 @media (max-width: 625px) {
