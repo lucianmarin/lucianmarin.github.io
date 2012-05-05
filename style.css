@@ -110,10 +110,14 @@ color: #ff625a;
 
 .foot {
 padding: 15px 20px;
-margin-bottom: 18px;
+margin-bottom: 10px;
 color: #ddd;
 opacity: 0.5;
 font-size: 12px;
+}
+
+.foot p {
+margin-bottom: 8px;
 }
 
 .foot a {
