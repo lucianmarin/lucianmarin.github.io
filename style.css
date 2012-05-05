@@ -24,7 +24,7 @@ body {
 background-color: #2d3e4b;
 color: #445a6a;
 font-family: "Roboto", Helvetica, Arial, sans-serif;
-font-size: 14px;
+font-size: 13px;
 text-rendering: optimizeLegibility;
 }
 
@@ -67,7 +67,7 @@ border-top-left-radius: 10px;
 border-top-right-radius: 10px;
 padding: 15px 20px;
 border-bottom: #ff625a 2px solid;
-font-size: 20px;
+font-size: 18px;
 }
 
 .main {
@@ -85,7 +85,7 @@ background-color: #c2d1d3;
 }
 
 .entry h3 {
-font-size: 20px;
+font-size: 18px;
 font-weight: normal;
 margin-bottom: 10px;
 }
