@@ -11,14 +11,7 @@ blue thin	- e5edeb
 blue light	- c2d1d3
 blue dark	- 2d3e4b
 
-#e4edea
-
-
 */
-
-html {
--webkit-text-size-adjust: none; /* Prevent font scaling in landscape */
-}
 
 body {
 background: #000 url(neverland.jpg) center center no-repeat fixed;
