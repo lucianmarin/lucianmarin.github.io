@@ -16,13 +16,8 @@ blue dark	- 2d3e4b
 
 */
 
-html {
--webkit-text-size-adjust: none; /* Prevent font scaling in landscape */
-}
-
 body {
-background: #202122 url(neverland.jpg) center center no-repeat fixed;
-background-size: cover;
+background: #202122 url(bots.png) repeat fixed;
 color: #424344;
 font-family: "Roboto", Helvetica, Arial, sans-serif;
 font-size: 13px;
@@ -51,20 +46,21 @@ margin-bottom: 18px;
 color: #ecedee;
 white-space: nowrap;
 overflow: hidden;
-text-shadow: 0 2px 2px rgba(0,0,0,.4);
+text-shadow: 0 2px 2px rgba(0,0,0,0.8);
 }
 
 .main {
 background-color: #ecedee;
-border-radius: 10px;
-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+border-radius: 20px;
+border-top-left-radius: 5px;
+box-shadow: 0 0 16px #000;
 }
 
 .intro {
 background-color: #fff;
 padding: 15px 20px;
-border-top-left-radius: 10px;
-border-top-right-radius: 10px;
+border-top-left-radius: 5px;
+border-top-right-radius: 20px;
 border-bottom: #e43 2px solid;
 font-size: 18px;
 }
@@ -99,7 +95,7 @@ color: #e43;
 padding: 15px 20px 7px 20px;
 color: #dbdcdd;
 font-size: 12px;
-text-shadow: 0 1px 1px rgba(0,0,0,.4);
+text-shadow: 0 1px 1px rgba(0,0,0,0.8);
 }
 
 .foot p {
