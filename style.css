@@ -107,3 +107,11 @@ width: 80%;
 }
 
 }
+
+@media (max-width: 320px) {
+
+#wrap {
+width: 280px;
+}
+
+}
