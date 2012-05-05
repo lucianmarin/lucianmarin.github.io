@@ -91,6 +91,7 @@ opacity: 0.8;
 
 .foot {
 padding: 15px 20px;
+margin-bottom: 18px;
 color: #ddd;
 opacity: 0.5;
 font-size: 12px;
@@ -105,6 +106,6 @@ color: #def;
 }
 
 @media (max-width: 320px) {
-#wrap { width: 280px; }
+#wrap { width: 290px; }
 h1 span { display: none; }
 }
