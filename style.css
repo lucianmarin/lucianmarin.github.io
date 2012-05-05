@@ -21,9 +21,8 @@ html {
 }
 
 body {
-background: #000 url(neverland.jpg) center center no-repeat fixed;
 background-color: #2d3e4b;
-color: #424344;
+color: #445a6a;
 font-family: "Roboto", Helvetica, Arial, sans-serif;
 font-size: 13px;
 text-rendering: optimizeLegibility;
@@ -48,24 +47,33 @@ font-size: 54px;
 font-weight: 100;
 margin-top: 18px;
 margin-bottom: 18px;
-color: #ecedee;
+color: #e5edeb;
 white-space: nowrap;
 overflow: hidden;
-text-shadow: 0 2px 2px rgba(0,0,0,.4);
+}
+
+h1 span {
+font-size: 24px;
+color: #445a6a;
+}
+
+h1 a {
+color: #445a6a;
 }
 
 .main {
-background-color: #ecedee;
+background-color: #e4edea;
 border-radius: 10px;
 box-shadow: 0 0 10px rgba(0,0,0,0.6);
 }
+
 
 .intro {
 background-color: #fff;
 padding: 15px 20px;
 border-top-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom: #e43 2px solid;
+border-bottom: #ff625a 2px solid;
 font-size: 18px;
 }
 
@@ -74,13 +82,24 @@ padding: 15px 20px 10px 20px;
 }
 
 .odd {
-background-color: #dbdcdd;
+background-color: #c2d1d3;
 }
 
 .entry h3 {
 font-size: 18px;
 font-weight: normal;
 margin-bottom: 10px;
+}
+
+.entry h3 span {
+background-color: #2d3e4b;
+border-radius: 3px;
+padding: 1px 3px;
+color: #fff;
+font-size: 10px;
+vertical-align: super;
+text-transform: uppercase;
+opacity: 0.4;
 }
 
 .entry p {
@@ -92,14 +111,13 @@ opacity: 0.8;
 }
 
 .entry a {
-color: #e43;
+color: #ff625a;
 }
 
 .foot {
 padding: 15px 20px 7px 20px;
-color: #dbdcdd;
+color: #ddd;
 font-size: 12px;
-text-shadow: 0 1px 1px rgba(0,0,0,.4);
 }
 
 .foot p {
@@ -108,7 +126,7 @@ margin-bottom: 8px;
 }
 
 .foot a {
-color: #cdf;
+color: #def;
 }
 
 .foot p.logo {
