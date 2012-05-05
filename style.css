@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:regular,medium,thin,italic,mediumitalic);
+
+
+/* http://kuler.adobe.com/#themeID/230215 */
+
+/* color scheme *
+
+blue		- 445a6a
+red 		- ff625a
+blue thin	- e5edeb
+blue light	- c2d1d3
+blue dark	- 2d3e4b
+
+*/
+
+body {
+background-color: #2d3e4b;
+color: #c2d1d3;
+font-family: "Roboto", Helvetica, Arial, sans-serif;
+font-size: 16px;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
+
+#wrap {
+width: 500px;
+margin: 0 auto;
+}
+
+h1 {
+font-size: 72px;
+font-weight: 100;
+}
