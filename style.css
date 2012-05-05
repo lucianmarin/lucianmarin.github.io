@@ -72,7 +72,7 @@ border-bottom-right-radius: 10px;
 }
 
 .entry {
-padding: 15px 20px;
+padding: 15px 20px 10px 20px;
 }
 
 .odd {
@@ -82,11 +82,30 @@ background-color: #c2d1d3;
 .entry h3 {
 font-size: 20px;
 font-weight: normal;
+margin-bottom: 10px;
+}
+
+.entry h3 span {
+background-color: #2d3e4b;
+border-radius: 3px;
+padding: 1px 3px;
+color: #fff;
+font-size: 10px;
+vertical-align: super;
+text-transform: uppercase;
+opacity: 0.4;
+}
+
+.entry p {
 margin-bottom: 5px;
 }
 
 .entry p span {
 opacity: 0.8;
+}
+
+.entry a {
+color: #ff625a;
 }
 
 .foot {
