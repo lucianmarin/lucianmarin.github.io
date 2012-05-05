@@ -80,7 +80,6 @@ margin-bottom: 10px;
 }
 
 .entry p {
-font-size: 13px;
 margin-bottom: 5px;
 }
 
@@ -120,4 +119,5 @@ text-align: center;
 
 @media (max-width: 320px) {
 #wrap { width: 290px; }
+h1 span { display: none; }
 }
