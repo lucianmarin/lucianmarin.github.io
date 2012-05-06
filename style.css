@@ -58,16 +58,22 @@ background-color: #fff;
 padding: 15px 20px;
 border-top-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom: #e43 2px solid;
+border-bottom: #e43 3px solid;
 font-size: 18px;
 }
 
 .entry {
 padding: 15px 20px 10px 20px;
+border-bottom: #d0d1d2 1px solid;
+}
+
+.entry:last-child {
+border: 0 none;
 }
 
 .odd {
 background-color: #dbdcdd;
+border-top: #e0e1e2 1px solid;
 }
 
 .entry h3 {
@@ -86,6 +92,10 @@ opacity: 0.8;
 
 .entry a {
 color: #e43;
+}
+
+.entry a:hover {
+opacity: 0.8;
 }
 
 .foot {
