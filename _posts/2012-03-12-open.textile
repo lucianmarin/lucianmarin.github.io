@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I Turned Down $300,000 from Microsoft to go Full-Time on GitHub
+category: Hope for the Future
 ---
 
 h1. {{ page.title }}
@@ -13,7 +14,7 @@ I think I was sitting at the booth alone because I'd just ordered a fresh Fat Ti
 
 The next night, Friday, October 19, 2007 at 10:24pm Chris made the first commit to the GitHub repository and sealed in digital stone the beginning of our joint venture. There were, so far, no agreements of any kind regarding how things would proceed. Just two guys that decided to hack together on something that sounded cool.
 
-Remember those amazing few minutes in Karate Kid where Daniel is training to become a martial arts expert? Remember the music? Well, you should probably go buy and listen to "You're The Best":http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=260417864&id=260417040&s=143441 by Joe Esposito in iTunes because I'm about to hit you with a montage.
+Remember those amazing few minutes in Karate Kid where Daniel is training to become a martial arts expert? Remember the music? Well, you should probably go buy and listen to "You're The Best":http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=260417864&id=260417040&s=143441 by Joe Esposito in iTunes because I'm abnoneout to hit you with a montage.
 
 For the next three months Chris and I spent ridiculous hours planning and coding GitHub. I kept going with Grit and designed the UI. Chris built out the Rails app. We met in person every Saturday to make design decisions and try to figure out what the hell our pricing plan would look like. I remember one very rainy day we talked for a good two hours about various pricing strategies over some of the best Vietnamese egg rolls in the city. All of this we did while holding other engagements. I, for one, was employed full time at Powerset as a tools developer for the Ranking and Relevance team.
 
