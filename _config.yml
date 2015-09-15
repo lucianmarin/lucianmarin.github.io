@@ -1,4 +1,11 @@
-markdown: rdiscount
-pygments: true
-permalink: none
-paginate: [per_page]
+name: Lucian Marin
+description: Information Architect
+url: http://iamlucian.ro
+
+relative_permalinks: false
+permalink: :title.html
+markdown: redcarpet
+highlighter: null
+
+exclude: [readme.md]
+include: [.htaccess]

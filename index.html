@@ -1,60 +1,25 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<title>Lucian Marin</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="stylesheet" type="text/css" href="style.css" />
-</head>
+---
+layout:     default
+title:      Shared Ideas
+permalink:  /
+---
 
-<body>
-
-<div id="wrap">
-
-<h1>Laboratory</h1>
-
-<div class="main">
-
-<div class="intro">Meet the robots!</div>
-
-<div class="entry">
-	<h3>Dash <a href="http://lucianmarin.com/dash/">+</a></h3>
-	<p>A new kind of life-stream who lets others see your latest online activities in a clear and simple interface.</p>
-	<p><span>Roboto code:</span> <a href="https://github.com/lucianmarin/dash">dash</a></p>
-</div>
-
-<div class="entry odd">
-	<h3>Peculiar <a href="http://lucianmarin.com/peculiar/">+</a></h3>
-	<p>A free icon package made only in CSS. The package contains 45 pictograms that are available in 16² pixels size.</p>
-	<p><span>Roboto code:</span> <a href="https://github.com/lucianmarin/peculiar">peculiar</a> </p>
-</div>
-
-<div class="entry">
-	<h3>Journalist</h3>
-	<p>A smart, sophisticated WordPress theme designed for professional journalists.</p>
-	<p><span>Roboto code:</span> <a href="https://github.com/lucianmarin/wp-journalist">wp-journalist</a></p>
-</div>
-
-<div class="entry odd">
-	<h3>Andrea</h3>
-	<p>A modern Wordpress theme standing out from the cloud with its shades of blue, varying from deep blue to whites.</p>
-	<p><span>Roboto code:</span> <a href="https://github.com/lucianmarin/wp-andrea">wp-andrea</a></p>
-</div>
-
-<div class="entry">
-	<h3>Wish <a href="http://lucianmarin.com/wish/">+</a></h3>
-	<p>A digital holiday card that follow the tradition that says that every year on New Year's Eve, if you make a wish it will fulfill in the next year.</p>
-	<p><span>Roboto code:</span> &mdash; </p>
-</div>
-
-</div>
-
-<div class="foot">
-<p>The only place in the world where robots have unstable bits and brave souls; where imagination never met the cruel reality.</p>
-<p>Feel free to ping @<a href="http://twitter.com/lucianmarin/">lucianmarin</a> for more details. The photo is on <a href="http://instagr.am/p/a-IBL/">Instagram</a>.</p>
-<p class="logo"><a href="http://lucianmarin.com"><img src="logo.png" width="28" height="14" /></a></p>
-</div>
-
-</div>
-
-</body>
-</html>
+<ul class="list">
+    {% for post in site.posts %}
+        {% capture month %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture nmonth %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% if month != nmonth %}
+            {% if forloop.index != 1 %}</li></ul>{% endif %}
+            <li>
+            <h3>{{ post.date | date: '%Y' }}</h3>
+            <ul>
+        {% endif %}
+        <li>
+            <b>{{ post.date | date: "%b" }}</b>
+            <i>{{ post.date | date: "%e" }}</i>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            {% if post.syntax %}<sup title="Syntax">src</sup>{% endif %}
+            {% if post.images %}<sup title="Images">img</sup>{% endif %}
+        </li>
+    {% endfor %}
+</ul>

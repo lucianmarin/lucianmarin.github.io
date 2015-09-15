@@ -1,0 +1,18 @@
+---
+layout:     post
+date:       2014-09-21 10:00
+title:      "Nonuser Experience"
+category:   coffee-in-the-morning
+slug:       nonuser-experience
+sub:        8844
+---
+
+Not all the people are users. Designers are always focused only on those who are using the products, but they are missing a lot more by ignoring people who aren’t using the products. There is a clear distinction between user experience (*UX*) and nonuser experience (*NX*).
+
+People can stare at your product, look for inspiration, search for solutions, wear the brand and the list of nonuse cases can go on. Let’s not mention that the ratio of people not using a product is always higher than people using it.
+
+I’m a nonuser for Adobe. I’m wearing a t-shirt with their logo. This is a simple example of nonuser experience (*NX*). I’m a designer who doesn’t use Adobe products, but gets inspired by the work they do in the creative field. To a certain degree I’m a designer because Adobe exists, because I know how they do things and that drives me every single day. I can say the same things about Apple. But for Apple, I’m both: an user and a nonuser.
+
+Like me, there are poor people who can’t afford buying a Mercedes or a BMW or a Porsche, but they wear keychains, t-shirts, head caps, posters and so on featuring the companies or their products. Kids grow up wanting to be engineers for NASA, but they never get their chance. They are nonusers for NASA for a life time.
+
+A company shouldn’t put the users first, it should put their products first. Why? Because people love and use products. Because people who don’t use the products do things that bring them closer to the company and the products. If you put the product first, you’re automatically and irreversible putting all your customers first. What do customers want? Everything you got to offer.

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Lucian Marin</title>
+        <description>Product Designer at Sublevel.net</description>
+        <link>http://lucianmarin.com</link>
+        <language>en-us</language>
+        <pubDate>Tue, 15 Sep 2015 12:41:02 +0300</pubDate>
+        <lastBuildDate>Tue, 15 Sep 2015 12:41:02 +0300</lastBuildDate>
+        
+            <item>
+                <title>Selling Sublevel</title>
+                <description>&lt;p&gt;People on &lt;a href=&quot;https://sublevel.net/&quot;&gt;Sublevel&lt;/a&gt; got pretty upset about me because I decided to make the service available for purchase. I understand the feeling. I understand the betrayal. I understand the fact that Sublevel stands for something unique in a world full of chaos. Sublevel itself is chaos ordered.&lt;/p&gt;
+
+&lt;h4&gt;Why&lt;/h4&gt;
+
+&lt;p&gt;If tomorrow I will die, Sublevel will die with me. I don’t want that. Do you want that? Does anybody want that? I didn’t build Sublevel for profit, I actually build to get my name on Wikipedia. I didn’t get that yet, still working on it. But the idea is that Sublevel is Sublevel, no matter what.&lt;/p&gt;
+
+&lt;p&gt;The moment I decided to sell it, something bad happen in my life. It made me think and think. What do I want more? Sublevel just for me or Sublevel for everyone? Open sourcing it is easy. I make the git repository public. It’s a flip of a switch. But it’s my last option. Selling it to the right team/company is the hard way. I always took the hard way in my life, so I’m not gonna change now.&lt;/p&gt;
+
+&lt;h4&gt;Plans&lt;/h4&gt;
+
+&lt;p&gt;If messages take off, I will probably remove mentions. You’ll get the same feed using search (recent sorting algorithm). It’s easier to send a message than to write someone’s &lt;a href=&quot;https://sublevel.net/username/&quot;&gt;@username&lt;/a&gt; then hope then other one will answer you publicly. Tech illiterate people don’t even understand how this works. Removing mentions will also streamline the code.&lt;/p&gt;
+
+&lt;p&gt;I want to introduce rooms on Sublevel. It will work like messages, but everyone can write on the same #room. As you have noticed, I’ll use hashtags to redirect people to rooms. Creating a room will be tricky — can I do it automatically? Another tricky part — how to perform search on rooms? Yet another tricky part — will it work without mentions support?&lt;/p&gt;
+
+&lt;h4&gt;Closing&lt;/h4&gt;
+
+&lt;p&gt;I listened to a speech by &lt;a href=&quot;https://en.wikipedia.org/wiki/Mircea_C%C4%83rt%C4%83rescu&quot;&gt;Mircea Cartarescu&lt;/a&gt; where he discussed his latest book. He talked so well about dimensions (like multiple universes, the multiverse theory) that me realize Sublevel is unidimensional. It’s completely linear. That might be a good thing but also a bad thing. Messages is another dimension. Rooms is another dimension. But all should have the same common purpose: enable people to communicate.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/selling-sublevel.html</link>
+                <pubDate>Sat, 29 Aug 2015 00:29:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/selling-sublevel.html</guid>
+            </item>
+        
+            <item>
+                <title>Simple, Direct and Honest</title>
+                <description>&lt;p&gt;Sometimes we lack motivation and sometimes we look up for it. Motivation is a process of knowing yourself better. If I have to pick three words that mean everything to me, I’ll pick the ones that will motivate me most.&lt;/p&gt;
+
+&lt;p&gt;Picking the words like picking a path is easy. Keeping the same path is the hardest part, almost impossible. But that’s why some of us are born, to make impossible possible. I want to become one of those people. This is my dearest wish.&lt;/p&gt;
+
+&lt;p&gt;Simple means simple. You should always get rid of complications because they stay in your way. Direct means having a direction, knowing where you’re going. Lead the way for others to follow. Simplicity is nothing without a good direction. Honest means two things: being true to yourself and being truthful with others.&lt;/p&gt;
+
+&lt;p&gt;Why complicate things when you can simplify them? Why chase multiple dreams when you can pick only one? Why be anything else that honest?&lt;/p&gt;
+
+&lt;p&gt;Because complicating things helps you simplify them. Because having multiple dreams helps you finding a good one. Because honesty is blissful.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/simple-direct-honest.html</link>
+                <pubDate>Wed, 12 Aug 2015 22:28:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/simple-direct-honest.html</guid>
+            </item>
+        
+            <item>
+                <title>Sufficiently Advanced Intelligence</title>
+                <description>&lt;p&gt;Our generation, people in their 20s and early 30s have the obligation to imagine a new future. We are living in a future imagined by old people with old habits and old moral values. The new generation have new values like simplicity, directness and honesty. We want to get rid of complications because they stay in our way. We want to know where we’re going and to lead the way for others to follow. We want to be true to ourselves and be truthful to others.&lt;/p&gt;
+
+&lt;p&gt;Many people are wondering why &lt;a href=&quot;https://sublevel.net/&quot;&gt;Sublevel&lt;/a&gt; still exists. Just like in Ex Machina, any sufficiently advanced intelligence is indistinguishable from us. Sublevel has an identity of its own. It&amp;#39;s fed daily with our thoughts. But unlike any other social platform, Sublevel is different from a design perspective.&lt;/p&gt;
+
+&lt;p&gt;How can we teach artificial intelligence to think like us? How can we teach anybody anything? By teaching them causes and effects. We usually say if you do that, this will happen. And that&amp;#39;s how we learn. That&amp;#39;s how an AI learns.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;(cause, effect)
+
+(&amp;quot;Any questions?&amp;quot;, &amp;quot;What do you think is the meaning of life?&amp;quot;)
+
+(&amp;quot;What do you think is the meaning of life?&amp;quot;, &amp;quot;Nothing. No one thing. There is no meaning. Squirrel, fish, microbes...no pondering about the meaning of life occurring there. Gibbon or gorilla: maybe some mind activity going on about life&amp;#39;s meaning. These beings exist with little/no reflection on meaning. My personal meaning is there is no meaning, no meaningful job, no God, no reason to exist other than that we do. Yet I remain realistically optimistic or optimistically (optimistically) real about all that life encompasses.&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Sublevel is a huge matrix of chained (causes, effects) that in the near future can teach new born children, run businesses, empower mankind, prevent us from repeating history, make smarter decisions. It&amp;#39;s not doing much today, but we can make it work for us by building the right tools on top of it.&lt;/p&gt;
+
+&lt;p&gt;Is Sublevel evil? No. Not one bit. Bad thoughts (effects) can be deleted by good thoughts (causes). Of course, the owner of the good cause has to do delete the bad effects.&lt;/p&gt;
+
+&lt;p&gt;Can Sublevel answer my questions? Yes, it can answer simple questions like &lt;a href=&quot;https://sublevel.net/search/?q=what+is+happiness&quot;&gt;What is happiness?&lt;/a&gt; if you think that’s a simple one.&lt;/p&gt;
+
+&lt;p&gt;Does Sublevel has an API? Yes, it&amp;#39;s available at &lt;a href=&quot;https://sublevel.net/api/&quot;&gt;sublevel.net/api&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PS: It&amp;#39;s better to get a scar than a tattoo.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/sai.html</link>
+                <pubDate>Wed, 20 May 2015 21:30:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/sai.html</guid>
+            </item>
+        
+            <item>
+                <title>Sony Z Camera</title>
+                <description>&lt;p&gt;I always dreamed up to have the perfect camera. But the perfect camera was never made. iPhone 4S had the build quality that I want from a camera, but it was lacking picture quality — it was just a phone after all.&lt;/p&gt;
+
+&lt;p&gt;I sat down and thought about want I really want from a digital camera today. Do I really want something designed by Jony Ive and Marc Newson and made by Leica or something designed by me and made by Sony? Obviously I’ll go with the second choice on any given day.&lt;/p&gt;
+
+&lt;p&gt;The core features of Sony Z Camera:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;one block of aluminum&lt;/li&gt;
+&lt;li&gt;inside-the-body lens&lt;/li&gt;
+&lt;li&gt;lens is covered with sapphire&lt;/li&gt;
+&lt;li&gt;35mm Zeiss lens&lt;/li&gt;
+&lt;li&gt;Sony DSLR sensor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;The Top&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sony-top.jpg&quot; alt=&quot;Top&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Top plate is featuring one single button. The simplicity of one button is probably the only reason I will want to buy a camera these days. &lt;/p&gt;
+
+&lt;p&gt;Make sure the settings (aperture, shutter speed, ISO, etc.) are fine, focus, reframe, take the shot. That’s it!&lt;/p&gt;
+
+&lt;h4&gt;The Front&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sony-front.jpg&quot; alt=&quot;Front&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The lens cover is made of dark painted circle surrounding the sapphire glass. A perfectly positioned round flash is right in the middle. The Sony logo is scaled to fit the black painted margins of the lens cover.&lt;/p&gt;
+
+&lt;p&gt;The Sony Z Camera is influenced by the popular Sony Xperia Z series phones where the minimalist design is the key differentiator over the competition.&lt;/p&gt;
+
+&lt;h4&gt;The Back&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sony-back.jpg&quot; alt=&quot;Back&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;On the back there is a 5:3 touchscreen featuring a healthy dark frame which helps people focus when taking pictures — hence not needing an eye viewer.&lt;/p&gt;
+
+&lt;p&gt;On the right there are 3 pre-configured buttons: record, up, down. Their function can be changed by software.&lt;/p&gt;
+
+&lt;p&gt;Sony Z Camera needs to have Wi-Fi for Internet publishing, Bluetooth for audio playback and a mobile operating system. Perhaps Android will handle everything just fine. The camera should come equipped with 32GB (or more) flash drive and a high-quality non-removable battery. It helps to have a perfect sealed device for rough environments.&lt;/p&gt;
+
+&lt;p&gt;The cost of the device should be $500, just like an iPad.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/sony-z-camera.html</link>
+                <pubDate>Fri, 02 Jan 2015 10:30:00 +0200</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/sony-z-camera.html</guid>
+            </item>
+        
+            <item>
+                <title>Abuser Experience</title>
+                <description>&lt;p&gt;Abuser Experience (AX) is related to people who abuse a product and in return they want the product to do all kinds of things, things that the product wasn’t designed or built for. When you design a product you should ask the question: is this feature for a nonuser, an user or an abuser?&lt;/p&gt;
+
+&lt;p&gt;Let’s take for example Adobe Photoshop. The latest versions of once a great product is a complete mess. 3D features in a product name that starts with “photo”? Video features in a product name that starts with “photo”? Animation features in a product name that starts with “photo”? Now people are “shopping” somewhere else for different tools with different purposes. Others are literally “photo-shopping” with &lt;a href=&quot;http://pictura.madebysource.com&quot;&gt;Pictura&lt;/a&gt; inside Photoshop.&lt;/p&gt;
+
+&lt;p&gt;Let’s take for example Microsoft Windows. Windows 95/98/98SE were a god sent gift to humanity. They had the perfect balance of well designed and integrated software experience. No kidding. Please, be careful that in those times there was simply no competition for Microsoft products. Designing a good product in those times was even harder than today when you can look at what the competition is doing wrong. In the later versions Microsoft tend to take abusers input for granted. They ended up with products that look and work like crap.&lt;/p&gt;
+
+&lt;p&gt;People can be split in three big categories and they all are important to a product success:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Nonusers
+    the people you actually need, fans, enthusiasts, etc.
+Users
+    the people you should really care about
+Abusers
+    the people you should mostly ignore
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Abusers should be ignored because they return later to the product and they become one of the most happiest customers. Abusers were those who asked Apple to add all kinds of features to iPod line of products. Apple simply ignored their input and in return, iPod became the most recognized product in the world — an icon on its own.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/abuser-experience.html</link>
+                <pubDate>Wed, 24 Sep 2014 10:00:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/abuser-experience.html</guid>
+            </item>
+        
+            <item>
+                <title>Nonuser Experience</title>
+                <description>&lt;p&gt;Not all the people are users. Designers are always focused only on those who are using the products, but they are missing a lot more by ignoring people who aren’t using the products. There is a clear distinction between user experience (&lt;em&gt;UX&lt;/em&gt;) and nonuser experience (&lt;em&gt;NX&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;People can stare at your product, look for inspiration, search for solutions, wear the brand and the list of nonuse cases can go on. Let’s not mention that the ratio of people not using a product is always higher than people using it.&lt;/p&gt;
+
+&lt;p&gt;I’m a nonuser for Adobe. I’m wearing a t-shirt with their logo. This is a simple example of nonuser experience (&lt;em&gt;NX&lt;/em&gt;). I’m a designer who doesn’t use Adobe products, but gets inspired by the work they do in the creative field. To a certain degree I’m a designer because Adobe exists, because I know how they do things and that drives me every single day. I can say the same things about Apple. But for Apple, I’m both: an user and a nonuser.&lt;/p&gt;
+
+&lt;p&gt;Like me, there are poor people who can’t afford buying a Mercedes or a BMW or a Porsche, but they wear keychains, t-shirts, head caps, posters and so on featuring the companies or their products. Kids grow up wanting to be engineers for NASA, but they never get their chance. They are nonusers for NASA for a life time.&lt;/p&gt;
+
+&lt;p&gt;A company shouldn’t put the users first, it should put their products first. Why? Because people love and use products. Because people who don’t use the products do things that bring them closer to the company and the products. If you put the product first, you’re automatically and irreversible putting all your customers first. What do customers want? Everything you got to offer.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/nonuser-experience.html</link>
+                <pubDate>Sun, 21 Sep 2014 10:00:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/nonuser-experience.html</guid>
+            </item>
+        
+            <item>
+                <title>The Frictionless Product</title>
+                <description>&lt;p&gt;The products aren’t created to satisfy the needs of the few or the needs of the one. They are entities that satisfy the needs of the many. We now have the power and the ability to create digital products that satisfy the needs of every people connected to the Internet. If you give water to someone for the first time, he or she will turn you down because it has no taste, it has no color and it gives you no short-time satisfaction. Water is a frictionless product.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sublevel.net/&quot;&gt;Sublevel&lt;/a&gt; is not an iOS app, an Android app, a Windows Phone app, a BlackBerry app. It’s a web site or a  web app that works on every device, from smartwatches to big screen TVs. It has built-in notifications, discovery, communication features, search abilities, even a rudimentary HTML API since every page generated by Sublevel is a list of UTC timestamped items. On Sublevel everything is interconnected. Replies are connected to other replies, mentions are connected to people and replies, likes are connected to replies and people, people are connected to other people. Sublevel is a web open and connected to the world wide web — remember WWW?&lt;/p&gt;
+
+&lt;p&gt;Someone very close to me said that if I don’t bring Sublevel on the App Store he won’t talk to me anymore. But he’s wrong, like many other people who requested me hundreds of features. The moment you add a feature to your product, that moment you add friction to the system. By accumulating friction, your system will become useless in time. Sublevel isn’t created only for you as an individual, but for everyone as a whole. Sublevel is satisfying the needs of the many by satisfying the needs of the one (you) and the needs of the few (people close to you).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sublevel.net/&quot;&gt;Sublevel&lt;/a&gt; is a system of systems, after all. We all hear about these ecosystems, but no one tells you how they work, why they exists or why we need them. That’s because they have no theory to sustain these. They keep adding feature after feature, product lines after products lines, buy startups after startups, create apps after apps. All these things add friction, they don’t take friction away.&lt;/p&gt;
+
+&lt;p&gt;I received zero negative feedback from the people on Sublevel. That’s a first.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/frictionless-product.html</link>
+                <pubDate>Tue, 12 Aug 2014 17:25:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/frictionless-product.html</guid>
+            </item>
+        
+            <item>
+                <title>Why Sublevel?</title>
+                <description>&lt;p&gt;&lt;a href=&quot;http://sublevel.net/&quot;&gt;Sublevel&lt;/a&gt; is to Twitter what Pinboard is to Delicious, Reddit to Digg, Linux to Windows, Android to iOS, etc.&lt;/p&gt;
+
+&lt;p&gt;Here are the project requirements for &lt;a href=&quot;http://sublevel.net/&quot;&gt;Sublevel&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No JavaScript. Sublevel works with JavaScript disabled.&lt;/li&gt;
+&lt;li&gt;Dumb phones supported. Sublevel works with Opera Mini.&lt;/li&gt;
+&lt;li&gt;Responsive design. Sublevel works on any devices with a modern browser from smartphones to TVs.&lt;/li&gt;
+&lt;li&gt;Elegant design. Sublevel needs to feel better or as good as a native app.&lt;/li&gt;
+&lt;li&gt;Powerful web app. Sublevel is using design hacks to improve performance.&lt;/li&gt;
+&lt;li&gt;Different than Twitter. Sublevel is not a clone of Twitter like App.net neither trying to reinvent the wheel. There&amp;#39;s no character limit, Sublevel is limited by design only.&lt;/li&gt;
+&lt;li&gt;No user tracking. Sublevel doesn&amp;#39;t store any metadata associated with users or replies.&lt;/li&gt;
+&lt;li&gt;Discoverable. Sublevel is using an explore page to keep people informed. Similar to HN, DN or Reddit.&lt;/li&gt;
+&lt;li&gt;Clear searching. Sublevel lets you independently search for replies or people&amp;#39;s usernames, bios, locations.&lt;/li&gt;
+&lt;li&gt;Just text. Sublevel won&amp;#39;t provide support for images, videos, gifs, mp3s. Third-party services do a better job. Sublevel provides support for links, mentions and hashtags.&lt;/li&gt;
+&lt;li&gt;Threaded conversations. Sublevel reply system is clear, there&amp;#39;s no need for mentions. It lets you join in any conversation.&lt;/li&gt;
+&lt;li&gt;Less spam. Sublevel prevents spam using two features. First, it lets the parent of a reply to delete any children replies. Second, it lets people send just one reply, expecting answers back from the other participants in the conversation.&lt;/li&gt;
+&lt;li&gt;No API. Sublevel doesn&amp;#39;t need an API, just better web browsers. Instead of an API, Sublevel will try to have an open database.&lt;/li&gt;
+&lt;li&gt;Powered by mini ads. Sublevel is free and the ads will never be intrusive, actually they look quite good.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The idea behind Sublevel is to have a public network with no hidden tricks, gimmicks or any other crap like that.&lt;/p&gt;
+
+&lt;p&gt;Have some fun on &lt;a href=&quot;http://sublevel.net/&quot;&gt;sublevel.net&lt;/a&gt; :)&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/sublevel.html</link>
+                <pubDate>Tue, 29 Jul 2014 11:05:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/sublevel.html</guid>
+            </item>
+        
+            <item>
+                <title>Plane and Simple</title>
+                <description>&lt;p&gt;Some people will argue about the grammar difference between “plane” and “plain”, others will accept the title as it is, but very few will notice the creativity, the genius, the magic.&lt;/p&gt;
+
+&lt;p&gt;When I was a kid and made paper airplanes I always wondered “will it fly this time around” before I even start making them. I made them anyway, it didn&amp;#39;t matter. Now that I grew up I&amp;#39;m noticing that some things matter and other things aren&amp;#39;t white at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;/images/airplane.jpg&quot; alt=&quot;Airplane&quot;&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Back in the old days I used &lt;a href=&quot;/photo/flickr.html&quot;&gt;Flickr&lt;/a&gt; to expose my thoughts. It was all I need.&lt;/p&gt;
+
+&lt;p&gt;Nowdays I need a journal to explain things, a place to share photos and another one to communicate with people that matter. The last thing I mentioned is actually the most important. That&amp;#39;s why I created &lt;a href=&quot;http://sublevel.net/&quot;&gt;Sublevel&lt;/a&gt; — a magical place where all things happen and they happen.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/airplane.html</link>
+                <pubDate>Fri, 11 Jul 2014 07:14:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/airplane.html</guid>
+            </item>
+        
+            <item>
+                <title>Design the Code</title>
+                <description>&lt;p&gt;Mike Bostock thinks design is &lt;a href=&quot;https://www.youtube.com/watch?v=fThhbt23SGM&quot;&gt;a search problem&lt;/a&gt;. He is the creator of D3.js &amp;mdash; a visual JavaScript library for data processing. I watched only the first minute of the video, then it started to get painful.&lt;/p&gt;
+
+&lt;p&gt;I did design for the past ten years. I struggled all this time to come up with the best designs and solutions for my clients. Then I noticed that all design patterns are repeating. Eventually, I got bored. Picked up Django web framework and Python programming in 2012 and never looked back. Now I&amp;#39;m starting to understand Cocoa and its relative frameworks while doing a ping-pong game between Objective-C and Swift programming languages. The fact that you can code your ideas and design solutions at the same time is such a relieve.&lt;/p&gt;
+
+&lt;p&gt;Design is not hard to do, but it&amp;#39;s hard to master. It takes time, a lot of time. But once you get it then there&amp;#39;s not much else to learn. There are design patterns repeating themselves, just like math formulas and theorems. You find a design solution, then you apply it to all your future works.&lt;/p&gt;
+
+&lt;h4&gt;My code. My design. My way.&lt;/h4&gt;
+
+&lt;p&gt;Oh, my… that&amp;#39;s a lot of me in there. Last year I created &lt;a href=&quot;/markdawn/&quot;&gt;Markdawn&lt;/a&gt; which was a content platform like Medium. It took me two months to code it and I got 150 people to sign up. A lot of time was spent on design. I had to cancel it because people don&amp;#39;t want to waste than 30 seconds with your product without getting some value in return.&lt;/p&gt;
+
+&lt;p&gt;In April, I started working on &lt;a href=&quot;http://sublevel.net/&quot;&gt;Sublevel&lt;/a&gt;. It took me three weeks to code it for a public preview. I enjoyed the product experience with a few friends of mine, it felt great. I actually didn&amp;#39;t spend that much time on visual design, because I wanted Sublevel to feel neutral and universal at the same time.&lt;/p&gt;
+
+&lt;p&gt;In the last week of May, I started working on &lt;a href=&quot;/monochrome/&quot;&gt;Monochrome&lt;/a&gt;. It took me exactly one week to code it and test it. I even manage to get a planned release day on June 2nd, the WWDC keynote day. The time spent on visual design: none. Instead, I used the system icons provided by OS X and the native UI.&lt;/p&gt;
+
+&lt;p&gt;Design is how it works.&lt;/p&gt;
+</description>
+                <link>http://lucianmarin.com/design-the-code.html</link>
+                <pubDate>Thu, 12 Jun 2014 00:16:00 +0300</pubDate>
+                <guid isPermaLink="true">http://lucianmarin.com/design-the-code.html</guid>
+            </item>
+        
+    </channel>
+</rss>

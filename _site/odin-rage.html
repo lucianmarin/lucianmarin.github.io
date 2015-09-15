@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+    <title>Odin's Rage</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
     <meta name="description" content="Lucian is designer passionate about front-end engineering, usability, web and software development. Lucian is living and working as freelancer in Bucharest, Romania." />
@@ -28,16 +28,22 @@
 <div class="main">
     <div class="content">
         <div class="small">
-            {% if page.date %}
-                {{ page.date | date: "%A, %B %e, %Y" }}
-            {% else %}
-                {{ site.time | date: "%A, %B %e, %Y" }}
-            {% endif %}
+            
+                Monday, December 15, 2008
+            
         </div>
         <h1>
-            <a href="{{ page.url }}">{{ page.title }}</a>
+            <a href="/odin-rage.html">Odin's Rage</a>
         </h1>
-        {{ content }}
+        <div class="post">
+    <p>This is my new watch and it&#39;s a present from my family for my birthday. You can find more information about it on the <a href="http://www.01theone.com/">official site</a>.</p>
+
+<p><strong><img src="/images/odin-rage.jpg" alt="Odin&#39;s Rage watch and box"></strong></p>
+
+<p>Santa came earlier with 10 days this year. You thought that the new MacBook Pro was shiny, but here&#39;s something <em>better</em> — objects in the mirror are closer than they appear.</p>
+
+</div>
+
     </div>
 </div>
 

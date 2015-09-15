@@ -1,0 +1,110 @@
+$small: 11px
+$radius: 5px
+$d: 0.2s
+
+$purple: #7A96CC
+$cyan: #7ACCCC
+$green: #80c000
+$orange: #FFAA00
+
+$white: white
+$black: black
+$silver: silver
+$gray: gray
+
+*
+    margin: 0
+    padding: 0
+
+body
+    font: 15px/20px Seravek, Helvetica, Arial, sans-serif
+
+a
+    color: $cyan
+    text-decoration: none
+    transition: color $d
+
+ul
+    list-style: none
+
+h1, h2, h3
+    font-weight: normal
+
+h1
+    font-size: 21px
+
+h2
+    font-size: 19px
+
+h3
+    font-size: 17px
+
+sup
+    font-size: $small - 2px
+    line-height: 0
+
+.line
+    height: 5px
+    &.purple
+        background-color: $purple
+    &.cyan
+        background-color: $cyan
+    &.green
+        background-color: $green
+    &.orange
+        background-color: $orange
+
+.content
+    width: 468px
+    margin: 0 auto
+
+.small
+    font-size: $small
+    color: $silver
+
+.header
+    padding: 15px 0
+    a
+        color: $gray
+
+.main
+    padding-top: 15px
+    padding-bottom: 30px
+    h1
+        color: $silver
+        padding-bottom: 10px
+
+.list
+    b, i
+        font-weight: normal
+        font-style: normal
+        display: block
+        float: left
+        width: 40px
+    b
+        color: $gray
+    i
+        color: $silver
+    sup
+        color: $silver
+        text-transform: uppercase
+    a
+        color: $black
+        &:hover
+            color: $cyan
+    h3
+        color: $gray
+        padding: 5px 0
+
+.post
+    h4
+        padding: 5px 0
+    p
+        padding: 5px 0
+    pre
+        font-size: $small
+        line-height: 15px
+        color: $gray
+        white-space: pre-wrap
+        padding: 10px 0
+        padding-left: 30px

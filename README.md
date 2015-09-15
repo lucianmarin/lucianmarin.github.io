@@ -1,2 +1,2 @@
-lucianmarin.github.com
-======================
+lucianmarin.github.io
+=====================

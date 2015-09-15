@@ -1,0 +1,21 @@
+---
+layout:     post
+date:       2010-09-20 23:52:21
+edit:       2013-03-19 20:52:03
+title:      "Peculiar Feeling of Restlessness"
+category:   hope-for-the-future
+slug:       peculiar-feeling
+images:     2
+---
+
+I always forget there are more than a hundred of people reading this particular blog and even more people knowing this site because of [The Journalist](/journalist/) — a theme created for WordPress years ago and popular even in this day and age of internet. Knowing there are people out there interested in what I do, makes me feel I want to write here. The problem with blogging (or any other activity) is that it brings back that peculiar feeling of restlessness. I’m a restless person myself, and young, but I can’t stand the feeling of being restless. It makes me ignore important things I want to do, create, design, achieve, believe and so on until I don’t believe in anything anymore. It’s a virtuous circle followed by a vicious circle.
+
+**![Peculiar](/images/peculiar-up.png)**
+
+Last month I started working on a different kind of project, namely [Peculiar](/peculiar/). An icon package that is made only in CSS with the purpose to help designers create user interfaces for the web without use of software programs and to help developers achieve as few HTTP requests as possible, thus speeding up web applications. This a challenge for me and for anyone interested in the future of user interfaces for the web, to make use of CSS as intelligently as possible — creating designs in Adobe Photoshop, slicing images and putting them as backgrounds in CSS doesn’t make [a lot of sense anymore](http://jasonsantamaria.com/articles/a-real-web-design-application/).
+
+**![Peculiar](/images/peculiar-down.png)**
+
+I want to say thank you to a couple of blogs for spreading the news about the development of this peculiar project. In no particular order, here they are: [Think Vitamin](http://thinkvitamin.com/design/pure-css-icons-pure-madness/), [Echo Enduring](http://blog.echoenduring.com/2010/08/14/are-we-taking-css-too-far/), [Faruk Ateş](http://farukat.es/journal/2010/08/469-pure-css-icons-make-madness-stop), [Matthias Schütz](http://matthiasschuetz.com/peculiar-icon-package-mit-css-symbolen) and those Chinese blogs. I also want to thank to the man that bought the first license for Peculiar.
+
+*After all that being said, he wants to change things that we accustomed to for the (worst) better.*

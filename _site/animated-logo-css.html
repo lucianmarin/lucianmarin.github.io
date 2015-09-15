@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Animated 3D Logo in CSS</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+    <meta name="description" content="Lucian is designer passionate about front-end engineering, usability, web and software development. Lucian is living and working as freelancer in Bucharest, Romania." />
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="apple-touch-icon" type="image/png" href="/icon.png" />
+    <link rel="icon" type="image/png" href="/icon.png" />
+    <link rel="alternate" type="application/rss+xml" title="Lucian Marin" href="/feed.rss" />
+</head>
+
+<body>
+
+<div class="header">
+    <div class="content">
+        <div class="small">Information Architect</div>
+        <h2><a href="/">M. Lucian</a></h2>
+    </div>
+</div>
+
+<div class="line orange"></div>
+<div class="line green"></div>
+<div class="line cyan"></div>
+<div class="line purple"></div>
+
+<div class="main">
+    <div class="content">
+        <div class="small">
+            
+                Tuesday, April 15, 2014
+            
+        </div>
+        <h1>
+            <a href="/animated-logo-css.html">Animated 3D Logo in CSS</a>
+        </h1>
+        <div class="post">
+    <p>I wanted to create a special logo for <a href="http://sublevel.net/">Sublevel</a>, a new product from me. I ended up with <a href="http://cssdeck.com/labs/single-element-orbitals">an orbital solution</a> that was actually a hack on display refresh rate. Basically the refresh rate of a computer monitor is 60 Hz, but the circle rotated at an higher rate. It created the ilusion that there were more than one circle rotating.</p>
+
+<p>Then I found that you can create very smooth 3D animated logos with CSS, if you carefully tweak <em>transform</em> and <em>animation</em> properties. In the case below I used to rotate a circle at 180deg on all XYZ axis, equally delay the animation of each circle and position them absolutely on top of each one. The result is pretty spectaluar if you ask a designer that loves static logos.</p>
+
+<div class="frame">
+    <div class="orbital">
+        <div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+    </div>
+</div>
+
+<h4>CSS code</h4>
+<div class="highlight"><pre><code class="language-text" data-lang="text">@keyframes outer {
+    to { transform: rotateX(180deg) rotateY(180deg) rotateZ(180deg); }
+    }
+.orbital .one   { animation: outer 8s 0s infinite; }
+.orbital .two   { animation: outer 8s 2s infinite; }
+.orbital .three { animation: outer 8s 4s infinite; }
+.orbital .four  { animation: outer 8s 6s infinite; }
+</code></pre></div>
+<h4>HTML code</h4>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;div class=&quot;orbital&quot;&gt;
+    &lt;div class=&quot;one&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;two&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;three&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;four&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</code></pre></div>
+<style type="text/css">
+@-webkit-keyframes outer {
+    to {
+        -webkit-transform: rotateX(180deg) rotateY(180deg) rotateZ(180deg);
+        }
+    }
+@keyframes outer {
+    to {
+        transform: rotateX(180deg) rotateY(180deg) rotateZ(180deg);
+        }
+    }
+.orbital {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin: 0 auto;
+    }
+.orbital > div {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    display: block;
+    border: 1px black solid;
+    border-radius: 25px;
+    }
+.orbital .one {
+    -webkit-animation: outer 8s 0s infinite;
+    animation: outer 8s 0s infinite;
+    }
+.orbital .two {
+    -webkit-animation: outer 8s 2s infinite;
+    animation: outer 8s 2s infinite;
+    }
+.orbital .three {
+    -webkit-animation: outer 8s 4s infinite;
+    animation: outer 8s 4s infinite;
+    }
+.orbital .four {
+    -webkit-animation: outer 8s 6s infinite;
+    animation: outer 8s 6s infinite;
+    }
+</style>
+
+</div>
+
+    </div>
+</div>
+
+</body>
+</html>
