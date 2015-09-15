@@ -17,7 +17,7 @@ $gray: gray
     padding: 0
 
 body
-    font: 15px/20px Seravek, Helvetica, Arial, sans-serif
+    font: 15px/20px "Seravek", Helvetica, Arial, sans-serif
 
 a
     color: $cyan
@@ -112,10 +112,35 @@ sup
         list-style: square
         padding: 5px 0
         padding-left: 30px
+
+.highlight
+    padding: 5px 0
     pre
-        font-size: $small
-        line-height: 15px
-        color: $gray
+        background-color: whitesmoke
         white-space: pre-wrap
         padding: 10px 0
-        padding-left: 30px
+        padding-left: 25px
+        border-left: $silver 5px solid
+        border-radius: $radius
+        code
+            font: 13px/20px "Share Tech Mono", monospace
+            color: $gray
+
+@font-face
+    font-family: "Seravek"
+    font-style: normal
+    font-weight: normal
+    src: url(/static/seravek/regular.woff) format('woff')
+
+@font-face
+    font-family: "Seravek"
+    font-style: normal
+    font-weight: bold
+    src: url(/static/seravek/bold.woff) format('woff')
+
+@font-face
+    font-family: "Share Tech Mono"
+    font-style: normal
+    font-weight: normal
+    src: url(/static/sharetech/mono.woff) format('woff')
+
