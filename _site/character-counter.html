@@ -15,8 +15,14 @@
 
 <div class="header">
     <div class="content">
-        <div class="small">Information Architect</div>
-        <h2><a href="/">M. Lucian</a></h2>
+        <div class="small">
+            
+                Saturday, August 18, 2012
+            
+        </div>
+        <h1>
+            <a href="http://lucianmarin.com/">Textpattern Character Counter</a>
+        </h1>
     </div>
 </div>
 
@@ -27,14 +33,6 @@
 
 <div class="main">
     <div class="content">
-        <div class="small">
-            
-                Saturday, August 18, 2012
-            
-        </div>
-        <h1>
-            <a href="/character-counter.html">Textpattern Character Counter</a>
-        </h1>
         <div class="post">
     <p>The recent <a href="http://dev.twitter.com/blog/changes-coming-to-twitter-api">announcement</a> by Twitter made me sad. I talked about the issues with social networks in <em>A Dash in Space-Time Continuum</em> and <em>Disconnected</em>, so I’m not gonna discuss it again.</p>
 
@@ -46,17 +44,17 @@
 
 <p>It’s pretty easy to add charCount.js from <a href="http://cssglobe.com/jquery-plugin-simplest-twitterlike-dynamic-character-count-for-textareas/">CSS Globe</a> since TextPattern comes by default with jQuery. All you have to do is to edit <em>txplib_head.php</em> from <em>/textpattern/lib/</em>. The you have to add the code below after jQuery declaration:</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">&lt;script type=&quot;text/javascript&quot; src=&quot;charCount.js&quot;&gt;
-&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-    $(document).ready(function(){
-        $(&quot;#link-description&quot;).charCount();
-    });
-&lt;/script&gt;
-&lt;style type=&quot;text/css&quot;&gt;
-    .counter { position: absolute; }
-    .counter.warning { color: #e40; }
-&lt;/style&gt;</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="lineno"> 1</span> <span class="nt">&lt;script </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span> <span class="na">src=</span><span class="s">&quot;charCount.js&quot;</span><span class="nt">&gt;</span>
+<span class="lineno"> 2</span> <span class="nt">&lt;/script&gt;</span>
+<span class="lineno"> 3</span> <span class="nt">&lt;script </span><span class="na">type=</span><span class="s">&quot;text/javascript&quot;</span><span class="nt">&gt;</span>
+<span class="lineno"> 4</span>     <span class="nx">$</span><span class="p">(</span><span class="nb">document</span><span class="p">).</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span><span class="p">(){</span>
+<span class="lineno"> 5</span>         <span class="nx">$</span><span class="p">(</span><span class="s2">&quot;#link-description&quot;</span><span class="p">).</span><span class="nx">charCount</span><span class="p">();</span>
+<span class="lineno"> 6</span>     <span class="p">});</span>
+<span class="lineno"> 7</span> <span class="nt">&lt;/script&gt;</span>
+<span class="lineno"> 8</span> <span class="nt">&lt;style </span><span class="na">type=</span><span class="s">&quot;text/css&quot;</span><span class="nt">&gt;</span>
+<span class="lineno"> 9</span>     <span class="nc">.counter</span> <span class="p">{</span> <span class="k">position</span><span class="o">:</span> <span class="k">absolute</span><span class="p">;</span> <span class="p">}</span>
+<span class="lineno">10</span>     <span class="nc">.counter.warning</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#e40</span><span class="p">;</span> <span class="p">}</span>
+<span class="lineno">11</span> <span class="nt">&lt;/style&gt;</span></code></pre></div>
 
 <p>Make sure you backup the original <em>txplib_head.php</em> before you do this and upload charCount.js where jquery.js file is located. The same thing can be applied to the textarea for article editing, all you have to do is to add the right ID in the code above.</p>
 
