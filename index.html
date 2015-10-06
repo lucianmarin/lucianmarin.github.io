@@ -4,22 +4,24 @@ title:      Lucian Marin
 permalink:  /
 ---
 
-<ul class="list">
-    {% for post in site.posts %}
-        {% capture month %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nmonth %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if month != nmonth %}
-            {% if forloop.index != 1 %}</li></ul>{% endif %}
+<aside>
+    <ul>
+        {% for post in site.posts %}
+            {% capture month %}{{ post.date | date: '%Y' }}{% endcapture %}
+            {% capture nmonth %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+            {% if month != nmonth %}
+                {% if forloop.index != 1 %}</li></ul>{% endif %}
+                <li>
+                <h3>{{ post.date | date: '%Y' }}</h3>
+                <ul>
+            {% endif %}
             <li>
-            <h3>{{ post.date | date: '%Y' }}</h3>
-            <ul>
-        {% endif %}
-        <li>
-            <b>{{ post.date | date: "%b" }}</b>
-            <i>{{ post.date | date: "%e" }}</i>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-            {% if post.syntax %}<sup title="Syntax">src</sup>{% endif %}
-            {% if post.images %}<sup title="Images">img</sup>{% endif %}
-        </li>
-    {% endfor %}
-</ul>
+                <b>{{ post.date | date: "%b" }}</b>
+                <i>{{ post.date | date: "%e" }}</i>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                {% if post.syntax %}<sup title="Syntax">src</sup>{% endif %}
+                {% if post.images %}<sup title="Images">img</sup>{% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</aside>

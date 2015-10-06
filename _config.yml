@@ -5,7 +5,8 @@ url: http://iamlucian.ro
 relative_permalinks: false
 permalink: :title.html
 markdown: redcarpet
-highlighter: pygments
+highlighter: null
+pygments: null
 
 exclude: [readme.md]
 include: [.htaccess]

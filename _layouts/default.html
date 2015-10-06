@@ -13,31 +13,31 @@
 
 <body>
 
-<div class="header">
-    <div class="content">
-        <div class="small">
+<header>
+    <aside>
+        <small>
             {% if page.date %}
                 {{ page.date | date: "%A, %B %e, %Y" }}
             {% else %}
                 {{ site.time | date: "%A, %B %e, %Y" }}
             {% endif %}
-        </div>
+        </small>
         <h1>
             <a href="/">{{ page.title }}</a>
         </h1>
-    </div>
-</div>
+    </aside>
+</header>
 
-<div class="line orange"></div>
-<div class="line green"></div>
-<div class="line cyan"></div>
-<div class="line purple"></div>
+<figure>
+    <figcaption></figcaption>
+    <figcaption></figcaption>
+    <figcaption></figcaption>
+    <figcaption></figcaption>
+</figure>
 
-<div class="main">
-    <div class="content">
-        {{ content }}
-    </div>
-</div>
+<section>
+    {{ content }}
+</section>
 
 </body>
 </html>

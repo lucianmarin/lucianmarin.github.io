@@ -46,39 +46,37 @@ sup
     font-size: $small - 2px
     line-height: 0
 
-.line
-    height: 5px
-    &.purple
-        background-color: $purple
-    &.cyan
-        background-color: $cyan
-    &.green
-        background-color: $green
-    &.orange
-        background-color: $orange
+figure
+    figcaption
+        height: 5px
+        &:nth-child(1)
+            background-color: $orange
+        &:nth-child(2)
+            background-color: $green
+        &:nth-child(3)
+            background-color: $cyan
+        &:nth-child(4)
+            background-color: $purple
 
-.content
+article, aside
     max-width: 480px
     padding: 0 20px
     margin: 0 auto
 
-.small
+small
     font-size: $small
     color: $silver
 
-.header
+header
     padding: 15px 0
     a
         color: $cyan
 
-.main
+section article, section aside
     padding-top: 15px
     padding-bottom: 30px
-    h1
-        color: $silver
-        padding-bottom: 10px
 
-.list
+aside ul
     li
         white-space: nowrap
     b, i
@@ -102,7 +100,7 @@ sup
         color: $gray
         padding: 5px 0
 
-.post
+article
     h4
         padding: 5px 0
         color: $purple
