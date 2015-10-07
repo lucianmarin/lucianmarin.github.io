@@ -1,5 +1,5 @@
 $small: 11px
-$radius: 5px
+$radius: 4px
 $d: 0.2s
 
 $purple: #7A96CC
@@ -63,6 +63,10 @@ article, aside
     padding: 0 20px
     margin: 0 auto
 
+section
+    padding-top: 15px
+    padding-bottom: 45px
+
 small
     font-size: $small
     color: $silver
@@ -72,11 +76,22 @@ header
     a
         color: $cyan
 
-section article, section aside
-    padding-top: 15px
-    padding-bottom: 30px
+footer
+    color: $silver
+    text-align: right
+    padding-top: 10px
+    line-height: 24px
+    img
+        float: right
+        margin-left: 12px
+        border-radius: $radius
+    a
+        color: $gray
+        &:hover
+            color: $black
 
 aside ul
+    margin-bottom: 10px
     li
         white-space: nowrap
     b, i
