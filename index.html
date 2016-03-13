@@ -8,8 +8,8 @@ permalink:  /
     <ul>
         {% for post in site.posts %}
             {% capture month %}{{ post.date | date: '%Y' }}{% endcapture %}
-            {% capture nmonth %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-            {% if month != nmonth %}
+            {% capture next_month %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+            {% if month != next_month %}
                 {% if forloop.index != 1 %}</li></ul>{% endif %}
                 <li>
                 <h3>{{ post.date | date: '%Y' }}</h3>
