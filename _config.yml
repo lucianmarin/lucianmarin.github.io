@@ -4,8 +4,6 @@ url: http://iamlucian.ro
 
 relative_permalinks: false
 permalink: :title.html
-# markdown: redcarpet
-# highlighter: null
-# pygments: null
 
 exclude: [readme.md]
+incremental: true
