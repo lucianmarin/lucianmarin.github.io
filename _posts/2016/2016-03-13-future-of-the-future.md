@@ -6,4 +6,4 @@ category:   hope-for-the-future
 slug:       future-of-the-future
 ---
 
-Testing this
+The future happens when you take radical decisions. When you say stop and start over. When you say time to move on. When you say you need a change. When you say you want different things. When you want a different job.
