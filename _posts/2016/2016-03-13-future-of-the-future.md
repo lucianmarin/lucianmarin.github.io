@@ -7,3 +7,13 @@ slug:       future-of-the-future
 ---
 
 The future happens when you take radical decisions. When you say stop and start over. When you say time to move on. When you say you need a change. When you say you want different things. When you want a different job.
+
+#### Engineering
+
+The main problem designers face now is that anyone nowadays can create a design. I noticed this trend a few years ago. I was a pretty good designer for a few years. Then I decided to re-learn programming, built [Sublevel](https://sublevel.net) and now I have a full-time job as a software engineer. I still think design is better than code, but it’s hard to explain to someone why a design is better than other. With code it’s easier because it does or doesn’t do what the end user is asking.
+
+Working as a software engineer is chalanging to say the least. If you like puzzles, you’ll enjoy a good coding session. But if you find a puzzle boring, then you need to figure out what’s wrong with the puzzle in the first place. Then you create a loop for yourself to get in and achieve things.
+
+#### 4-inch iPhone
+
+Eight days left until unveils their new 4-inch iPhone. I can’t wait for it to happen. My iPhone 4S is 4 year and half old. It can barelly keep up with the newest software. It fails even at basic thing like book reading. What I want from the new iPhone is a better display with higher contrast ratio just like iPhone 6/6s has. The rest of the phone doesn’t really matters because I’ll eventually get used to it. I’m a creature of habit.
