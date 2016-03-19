@@ -4,6 +4,7 @@ date:       2015-08-29 00:29
 title:      "Selling Sublevel"
 category:   reciprocal-affection
 slug:       selling-sublevel
+published:  false
 ---
 
 People on [Sublevel](https://sublevel.net/) got pretty upset about me because I decided to make the service available for purchase. I understand the feeling. I understand the betrayal. I understand the fact that Sublevel stands for something unique in a world full of chaos. Sublevel itself is chaos ordered.
