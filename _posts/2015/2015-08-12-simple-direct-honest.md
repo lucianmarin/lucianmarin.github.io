@@ -12,6 +12,6 @@ Picking the words like picking a path is easy. Keeping the same path is the hard
 
 Simple means simple. You should always get rid of complications because they stay in your way. Direct means having a direction, knowing where you’re going. Lead the way for others to follow. Simplicity is nothing without a good direction. Honest means two things: being true to yourself and being truthful with others.
 
-Why complicate things when you can simplify them? Why chase multiple dreams when you can pick only one? Why be anything else that honest?
+Why complicate things when you can simplify them? Why chase many dreams when you can pick only one? Why be anything else that honest?
 
-Because complicating things helps you simplify them. Because having multiple dreams helps you finding a good one. Because honesty is blissful.
+Because complicating things helps you simplify them. Because having many dreams helps you finding a good one. Because honesty is blissful.
