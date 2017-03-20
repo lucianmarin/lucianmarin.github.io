@@ -18,9 +18,9 @@
     <aside>
         <small>
             {% if page.date %}
-                {{ page.date | date: "%A, %B %e, %Y" }}
+                Written {{ page.date | date: "%B %e, %Y" }}
             {% else %}
-                {{ site.time | date: "%A, %B %e, %Y" }}
+                Updated {{ site.time | date: "%B %e, %Y" }}
             {% endif %}
         </small>
         <h1>
