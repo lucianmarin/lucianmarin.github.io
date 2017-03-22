@@ -1,4 +1,4 @@
-$small: 11px
+$small: 12px
 $radius: 5px
 $d: 0.2s
 
@@ -17,7 +17,7 @@ $gray: gray
     padding: 0
 
 body
-    font: 15px/20px "Seravek", Helvetica, Arial, sans-serif
+    font: 14px/20px "Clear Sans", Helvetica, Arial, sans-serif
 
 a
     color: $cyan
@@ -34,13 +34,13 @@ h1, h2, h3
     font-weight: normal
 
 h1
-    font-size: 21px
+    font-size: 20px
 
 h2
-    font-size: 19px
+    font-size: 18px
 
 h3
-    font-size: 17px
+    font-size: 16px
 
 sup
     font-size: $small - 2px
@@ -87,9 +87,10 @@ footer
             color: $black
 
 aside ul
-    margin-bottom: 10px
     li
         white-space: nowrap
+        overflow: hidden
+        text-overflow: ellipsis
     b, i
         font-weight: normal
         font-style: normal
@@ -142,16 +143,16 @@ article
             color: $gray
 
 @font-face
-    font-family: "Seravek"
+    font-family: "Clear Sans"
     font-style: normal
     font-weight: normal
-    src: url(/static/seravek/regular.woff) format('woff')
+    src: url(/static/clearsans/regular.woff) format('woff')
 
 @font-face
-    font-family: "Seravek"
+    font-family: "Clear Sans"
     font-style: normal
     font-weight: bold
-    src: url(/static/seravek/bold.woff) format('woff')
+    src: url(/static/clearsans/bold.woff) format('woff')
 
 @font-face
     font-family: "Share Tech Mono"
