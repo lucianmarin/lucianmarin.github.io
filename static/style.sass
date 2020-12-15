@@ -17,7 +17,9 @@ $gray: gray
     padding: 0
 
 body
-    font: 14px/20px "Clear Sans", Helvetica, Arial, sans-serif
+    font-family: "Route 159", Helvetica, Arial, sans-serif
+    font-size: 14px
+    line-height: 20px
 
 a
     color: $cyan
@@ -59,7 +61,7 @@ figure
             background-color: $purple
 
 article, aside
-    max-width: 480px
+    max-width: 520px
     padding: 0 20px
     margin: 0 auto
 
@@ -133,29 +135,40 @@ article
     pre
         background-color: whitesmoke
         white-space: pre-wrap
-        padding: 10px 0
-        padding-left: 25px
-        border-left: $silver 5px solid
-        border-radius: $radius
-        margin: 5px 0
+        padding: 10px
+        padding-left: 20px
+        margin: 5px -20px
         code
-            font: 13px/20px "Share Tech Mono", monospace
+            font-family: "Sometype Mono", monospace
+            font-size: 12px
+            line-height: 20px
             color: $gray
+        .kn, .k, .p, .ow, .o
+            color: $purple
+        .nb, .nc, .nf
+            color: $green
+        .bp, .mi
+            color: $cyan
+        .s
+            color: $orange
+        .n, .nn
+            color: $black
+
 
 @font-face
-    font-family: "Clear Sans"
+    font-family: "Route 159"
     font-style: normal
     font-weight: normal
-    src: url(/static/clearsans/regular.woff) format('woff')
+    src: url(/static/route159/regular.woff2) format('woff2')
 
 @font-face
-    font-family: "Clear Sans"
+    font-family: "Route 159"
     font-style: normal
     font-weight: bold
-    src: url(/static/clearsans/bold.woff) format('woff')
+    src: url(/static/route159/bold.woff2) format('woff2')
 
 @font-face
-    font-family: "Share Tech Mono"
+    font-family: "Sometype Mono"
     font-style: normal
     font-weight: normal
-    src: url(/static/sharetech/mono.woff) format('woff')
+    src: url(/static/sometype/regular.woff2) format('woff2')
