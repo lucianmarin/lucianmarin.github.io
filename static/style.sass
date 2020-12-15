@@ -1,3 +1,4 @@
+$regular: 14px
 $small: 12px
 $radius: 5px
 $d: 0.2s
@@ -18,7 +19,7 @@ $gray: gray
 
 body
     font-family: "Route 159", Helvetica, Arial, sans-serif
-    font-size: 14px
+    font-size: $regular
     line-height: 20px
 
 a
@@ -93,6 +94,8 @@ aside ul
         white-space: nowrap
         overflow: hidden
         text-overflow: ellipsis
+        &:first-child h4
+            padding-top: 0
     b, i
         font-weight: normal
         font-style: normal
@@ -110,9 +113,9 @@ aside ul
         color: $black
         &:hover
             color: $cyan
-    h3
+    h4
         color: $gray
-        padding: 5px 0
+        padding-top: 10px
 
 article
     h4
@@ -140,7 +143,7 @@ article
         margin: 5px -20px
         code
             font-family: "Sometype Mono", monospace
-            font-size: 12px
+            font-size: $small
             line-height: 20px
             color: $gray
         .kn, .k, .p, .ow, .o

@@ -77,6 +77,8 @@ aside ul li {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; }
+  aside ul li:first-child h4 {
+    padding-top: 0; }
 aside ul b, aside ul i {
   font-weight: normal;
   font-style: normal;
@@ -94,9 +96,9 @@ aside ul a {
   color: black; }
   aside ul a:hover {
     color: #7ACCCC; }
-aside ul h3 {
+aside ul h4 {
   color: gray;
-  padding: 5px 0; }
+  padding-top: 10px; }
 
 article h4 {
   padding: 5px 0;
