@@ -126,7 +126,7 @@ article pre {
   article pre code {
     font-family: "Sometype Mono", monospace;
     font-size: 12px;
-    line-height: 20px;
+    line-height: 15px;
     color: gray; }
   article pre .kn, article pre .k, article pre .p, article pre .ow, article pre .o {
     color: #7A96CC; }
