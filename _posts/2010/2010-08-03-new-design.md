@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2010-08-03 14:30:53
 edit:       2013-03-19 20:51:41
 title:      "The New Design"

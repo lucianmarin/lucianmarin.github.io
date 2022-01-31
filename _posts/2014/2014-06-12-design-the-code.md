@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2014-06-12 00:16
 title:      "Design the Code"
 category:   reciprocal-affection

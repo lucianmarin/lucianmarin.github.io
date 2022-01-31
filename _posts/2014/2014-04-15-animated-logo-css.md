@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2014-04-15 00:30
 title:      "Animated 3D Logo in CSS"
 category:   meaningful-labor

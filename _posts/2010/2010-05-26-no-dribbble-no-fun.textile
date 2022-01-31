@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2010-05-26 06:34:46
 edit:       2013-03-19 20:51:18
 title:      "No Dribbble, No Fun"
@@ -15,4 +15,3 @@ Sometimes you just have to have the ball in order to play. Can I have <a href="h
 *Edit* (Feb 20, 2011): I got <a href="http://dribbble.com/lucianmarin" rel="nofollow">a prospect account</a>. Is there anyone willing to draft me?
 
 *Edit* (Dec 22, 2011): Finally, one year and a half later I got an invite from <a href="http://www.artemlapitski.com/" rel="nofollow">Artem Lapitski</a>. Never say never.
-

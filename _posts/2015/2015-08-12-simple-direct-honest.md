@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2015-08-12 22:28
 title:      "Simple, Direct and Honest"
 category:   reciprocal-affection

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2008-12-13 15:33:29
 edit:       2013-03-19 20:09:12
 title:      "Hello World!"

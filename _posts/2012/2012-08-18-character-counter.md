@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-08-18 03:14:15
 edit:       2013-03-19 20:58:17
 title:      "Textpattern Character Counter"

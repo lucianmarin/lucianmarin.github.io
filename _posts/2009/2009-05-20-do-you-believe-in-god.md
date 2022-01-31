@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2009-05-20 06:51:02
 edit:       2013-03-19 20:08:24
 title:      "Do You Believe in God?"
@@ -16,4 +16,3 @@ But, I sense an energy when I pick a rock, I hear something profound when I’m 
 Another thing that I’m thinking of is Universe. I believe is finite, not only in space, but also in time; and it’s not expanding. Actually, this was my first existential question at age of four and it sounded like: “What’s beyond Universe?” (Sorry, Mom). I had an answer right away: “It’s must be finite, it has a margin and beyond it is something black, incomprehensible”. In 9th grade I found a way to demonstrate myself that it was indeed finite; that was when I learned about [mathematical induction](http://en.wikipedia.org/wiki/Mathematical_induction). Probably beyond Universe is [antimatter](http://en.wikipedia.org/wiki/Antimatter), but who knows exactly…
 
 *After all that being said, he wants to (sleep) dream on. It’s 6:44 AM. Over.*
-                    

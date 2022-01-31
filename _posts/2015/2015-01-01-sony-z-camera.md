@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2015-01-02 10:30
 title:      "Sony Z Camera"
 category:   meaningful-labor
@@ -24,7 +24,7 @@ The core features of Sony Z Camera:
 
 ![Top](/images/sony-top.jpg)
 
-Top plate is featuring one single button. The simplicity of one button is probably the only reason I will want to buy a camera these days. 
+Top plate is featuring one single button. The simplicity of one button is probably the only reason I will want to buy a camera these days.
 
 Make sure the settings (aperture, shutter speed, ISO, etc.) are fine, focus, reframe, take the shot. That’s it!
 

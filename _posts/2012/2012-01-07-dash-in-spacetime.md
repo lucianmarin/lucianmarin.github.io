@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-01-07 16:00:17
 edit:       2013-03-19 20:56:04
 title:      "Dash in Space-Time Continuum"

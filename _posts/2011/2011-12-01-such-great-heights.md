@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2011-12-01 19:01:55
 edit:       2013-03-19 20:55:35
 title:      "Such Great Heights"

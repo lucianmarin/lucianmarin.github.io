@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-06-08 07:10:50
 edit:       2013-03-19 20:57:04
 title:      "Too Insistent"

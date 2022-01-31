@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2013-02-08 13:25:23
 edit:       2013-03-19 20:59:35
 title:      "Learn HTML and CSS Easily"

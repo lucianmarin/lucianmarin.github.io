@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2013-03-12 23:04:43
 edit:       2013-03-19 20:59:50
 title:      "What Will Our Kids Think?"

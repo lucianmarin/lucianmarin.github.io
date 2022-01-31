@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2010-03-03 15:33:33
 edit:       2013-03-19 20:50:20
 title:      "Introducing Amatl"
@@ -35,7 +35,7 @@ page-3.html
 |-- styles
    |-- screen.css
    |-- print.css
-|-- fonts         /* embeddable fonts should be placed here */ 
+|-- fonts         /* embeddable fonts should be placed here */
 |-- languages     /* support for multi languages documents */
    |-- index-en-us.html
    |-- index-en-gb.html

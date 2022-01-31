@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2011-08-08 18:18:18
 edit:       2013-03-19 20:54:54
 title:      "Standby: Lights, Camera, Action!"

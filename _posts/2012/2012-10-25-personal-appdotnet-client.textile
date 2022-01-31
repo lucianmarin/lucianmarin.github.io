@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-10-25 15:25:00
 edit:       2013-03-19 20:58:44
 title:      "Personal App.net Client"

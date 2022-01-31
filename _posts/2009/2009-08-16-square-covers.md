@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2009-08-16 17:33:18
 edit:       2013-03-19 20:48:43
 title:      "Square Covers"

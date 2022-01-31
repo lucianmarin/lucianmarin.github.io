@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2011-11-14 15:10:52
 edit:       2013-03-19 20:55:22
 title:      "An Inexistent Future"

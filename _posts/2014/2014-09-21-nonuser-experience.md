@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2014-09-21 10:00
 title:      "Nonuser Experience"
 category:   coffee-in-the-morning

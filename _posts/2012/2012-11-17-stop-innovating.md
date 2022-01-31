@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-11-17 05:07:12
 edit:       2013-03-19 20:59:16
 title:      "Stop Innovating!"

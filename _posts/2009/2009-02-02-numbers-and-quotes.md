@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2009-02-02 06:36:41
 edit:       2013-03-19 20:16:51
 title:      "Numbers and Half True Quotes"
@@ -7,7 +7,7 @@ category:   meaningful-labor
 slug:       numbers-and-quotes
 ---
 
-In this post I wanted to write about numbers and their contributions to user interfaces, mostly on today top web applications. But after some thinking, it just didn't make sense. Numbers can be interpreted in different ways, depending on user perspective. 
+In this post I wanted to write about numbers and their contributions to user interfaces, mostly on today top web applications. But after some thinking, it just didn't make sense. Numbers can be interpreted in different ways, depending on user perspective.
 
 For example Kevin Rose thinks that getting [more followers](http://www.techcrunch.com/2009/01/25/kevin-rose-10-ways-to-increase-your-twitter-followers/) on Twitter is better, but I tend to disagree. For me is more important to write a tweet that has more value in time, than it has to my followers. What I said is also available for Digg; not the number of diggs matters, but the importance of a news in time. For this, notice what Peter Schiff said about recession in 2006 or 2007.
 

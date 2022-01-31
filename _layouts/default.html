@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
@@ -11,34 +11,37 @@
     <link rel="icon" type="image/png" href="/static/icon.png" />
     <link rel="alternate" type="application/rss+xml" title="Lucian Marin" href="/feed.rss" />
 </head>
-
 <body>
-
-<header>
-    <aside>
-        <small>
-            {% if page.date %}
-                Written {{ page.date | date: "%B %e, %Y" }}
-            {% else %}
-                Updated {{ site.time | date: "%B %e, %Y" }}
-            {% endif %}
-        </small>
-        <h1>
-            <a href="/">{{ page.title }}</a>
-        </h1>
-    </aside>
-</header>
-
-<figure>
-    <figcaption></figcaption>
-    <figcaption></figcaption>
-    <figcaption></figcaption>
-    <figcaption></figcaption>
-</figure>
-
-<section>
-    {{ content }}
-</section>
-
+<div class="container">
+    <div class="leftside"></div>
+    <div class="main">
+        <h4><a href="{{ site.url}}">Lucian Marin</a></h4>
+        <h1><a href="{{ page.url}}">{{ page.title }}</a></h1>
+        {% if page.url == "/" %}
+            <div class="content">{{ content }}</div>
+        {% else %}
+            <div class="article">{{ content }}</div>
+            <div class="footer">{{ page.date | date: "%B %e, %Y" }}</div>
+        {% endif %}
+    </div>
+    <div class="sidebar">
+        <ul>
+            {% for post in site.posts %}
+                {% capture month %}{{ post.date | date: '%Y' }}{% endcapture %}
+                {% capture next_month %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+                {% if month != next_month %}
+                    {% if forloop.index != 1 %}</li></ul>{% endif %}
+                    <li>
+                    <h4>{{ post.date | date: '%Y' }}</h4>
+                    <ul>
+                {% endif %}
+                <li>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="rightside"></div>
+</div>
 </body>
 </html>

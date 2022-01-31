@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2010-09-20 23:52:21
 edit:       2013-03-19 20:52:03
 title:      "Peculiar Feeling of Restlessness"

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-08-13 18:37:10
 edit:       2013-03-19 20:57:57
 title:      "Juicy Fruits in the Mix"
@@ -27,4 +27,3 @@ My recipe varies by the ingredients that I have. Although the basics are the sam
 * Cold mineral water with or without lemon. Schweppes can be a life savior in this case.
 
 Regarding the blender, any cheap blender from the local store will do the trick. It's more of a personal taste than anything. I don't recommend juicy extractors. You lose more than 50% of the content of the fruit by using them, even on citrus fruits.
-

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2013-09-04 13:37:00
 title:      "The Dawn of a New Era"
 category:   meaningful-labor

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-11-01 17:00:44
 edit:       2013-03-19 20:59:00
 title:      "Design the Flying Car"

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2013-12-28 15:44:17
 title:      "Insanely Simple"
 tag:        "Markdawn"

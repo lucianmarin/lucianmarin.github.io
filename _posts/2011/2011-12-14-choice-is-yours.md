@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2011-12-14 17:05:28
 edit:       2013-03-19 20:55:49
 title:      "The Choice Is Yours"

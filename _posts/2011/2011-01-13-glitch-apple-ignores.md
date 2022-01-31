@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2011-01-13 22:23:41
 edit:       2013-03-19 20:53:18
 title:      "The Glitch Apple Ignores"

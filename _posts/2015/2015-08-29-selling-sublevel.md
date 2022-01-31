@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2015-08-29 00:29
 title:      "Selling Sublevel"
 category:   reciprocal-affection

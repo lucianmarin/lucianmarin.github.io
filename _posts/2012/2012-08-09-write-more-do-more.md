@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-08-09 16:34:50
 edit:       2013-03-19 20:57:43
 title:      "Write More, Do More"

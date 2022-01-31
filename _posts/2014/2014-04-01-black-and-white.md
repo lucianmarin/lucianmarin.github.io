@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2014-04-01 00:30
 title:      "Black and White"
 category:   coffee-in-the-morning

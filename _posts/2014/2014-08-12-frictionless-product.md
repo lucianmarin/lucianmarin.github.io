@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2014-08-12 17:25
 title:      "The Frictionless Product"
 category:   hope-for-the-future

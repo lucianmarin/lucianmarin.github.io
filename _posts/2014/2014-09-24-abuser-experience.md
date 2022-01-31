@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2014-09-24 10:00
 title:      "Abuser Experience"
 category:   coffee-in-the-morning

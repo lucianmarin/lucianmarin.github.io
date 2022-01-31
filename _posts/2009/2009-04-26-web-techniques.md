@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2009-04-26 20:42:50
 edit:       2013-03-19 20:47:23
 title:      "Web Techniques"

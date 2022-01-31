@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-07-15 07:40:31
 edit:       2013-04-03 15:59:20
 title:      "Let's Get Frisky"

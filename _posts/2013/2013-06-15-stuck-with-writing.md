@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2013-06-15 14:12:26
 title:      "I'm Stuck with Writing"
 category:   coffee-in-the-morning

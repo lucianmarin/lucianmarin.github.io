@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2011-04-27 20:27:12
 edit:       2013-03-19 20:54:08
 title:      "I Wrote a Book"

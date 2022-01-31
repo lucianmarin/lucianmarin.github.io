@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2013-09-20 20:00
 title:      "Speed Up Web Development"
 category:   meaningful-labor

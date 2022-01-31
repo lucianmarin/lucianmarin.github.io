@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2014-03-25 01:14
 draft:      2013-08-18 01:14
 title:      "Just Another Avatar"

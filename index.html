@@ -1,27 +1,17 @@
 ---
 layout:     default
-title:      Lucian Marin
+title:      Recent Articles
 permalink:  /
 ---
 
-<aside>
-    <ul>
-        {% for post in site.posts %}
-            {% capture month %}{{ post.date | date: '%Y' }}{% endcapture %}
-            {% capture next_month %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-            {% if month != next_month %}
-                {% if forloop.index != 1 %}</li></ul>{% endif %}
-                <li>
-                <h4>{{ post.date | date: '%Y' }}</h4>
-                <ul>
-            {% endif %}
-            <li>
-                <b>{{ post.date | date: "%b" }}</b>
-                <i>{{ post.date | date: "%e" }}</i>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                {% if post.syntax %}<sup title="Syntax">src</sup>{% endif %}
-                {% if post.images %}<sup title="Images">img</sup>{% endif %}
-            </li>
-        {% endfor %}
-    </ul>
-</aside>
+<div class="list">
+    {% assign latest = site.posts | slice: 0, 10 %}
+    {% for post in latest %}
+        <div class="entry">
+            <p class="small">{{ post.date | date: '%B %e, %Y' }}</p>
+            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+            {% assign paragraph = post.content | markdownify | split: "</p>" | first %}
+            {{ paragraph | to_html }}</p>
+        </div>
+    {% endfor %}
+</div>

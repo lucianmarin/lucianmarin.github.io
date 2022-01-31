@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2011-05-04 23:33:01
 edit:       2013-03-19 20:54:38
 title:      "Berlin Alexanderplatz"

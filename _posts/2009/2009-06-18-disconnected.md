@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2009-06-18 15:54:45
 edit:       2013-03-19 20:47:59
 title:      "Disconnected"

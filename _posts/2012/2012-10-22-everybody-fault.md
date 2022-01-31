@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2012-10-22 02:58:30
 edit:       2012-12-10 01:03:16
 title:      "Everybody's Fault"

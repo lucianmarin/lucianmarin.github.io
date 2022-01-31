@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 date:       2010-11-10 12:56:30
 edit:       2013-03-19 20:52:43
 title:      "November Comes Again"
