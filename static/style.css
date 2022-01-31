@@ -163,7 +163,7 @@ sup {
 }
 
 .article pre {
-    background-color: var(--gray);
+    background-color: var(--gainsboro);
     white-space: pre-wrap;
     padding: 10px 20px;
     margin: 0 -20px;
@@ -172,9 +172,9 @@ sup {
 
 .article pre code {
     font-family: "Hack", monospace;
-    font-size: 12px;
+    font-size: 11px;
     line-height: 15px;
-    color: var(--white);
+    color: var(--black);
 }
 
 @media (max-width: 720px) {
