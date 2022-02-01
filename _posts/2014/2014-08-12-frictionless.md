@@ -1,10 +1,6 @@
 ---
-layout:     default
-date:       2014-08-12 17:25
-title:      "The Frictionless Product"
-category:   hope-for-the-future
-slug:       frictionless-product
-sub:        7416
+layout: default
+title: The frictionless product
 ---
 
 The products aren’t created to satisfy the needs of the few or the needs of the one. They are entities that satisfy the needs of the many. We now have the power and the ability to create digital products that satisfy the needs of every people connected to the Internet. If you give water to someone for the first time, he or she will turn you down because it has no taste, it has no color and it gives you no short-time satisfaction. Water is a frictionless product.

@@ -90,6 +90,10 @@ sup {
     padding-bottom: 10px;
 }
 
+.entry p a {
+    text-decoration: underline;
+}
+
 .entry:last-child {
     border: 0 none;
     margin-bottom: 0;
