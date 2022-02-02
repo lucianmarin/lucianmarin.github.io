@@ -1,10 +1,6 @@
 ---
-layout:     default
-date:       2009-06-18 15:54:45
-edit:       2013-03-19 20:47:59
-title:      "Disconnected"
-category:   hope-for-the-future
-slug:       disconnected
+layout: default
+title: Disconnected
 ---
 
 I no longer use Twitter. It seems that I won’t announce earthquakes when they’ll happen again. I removed all the contacts from Flickr, I wanted to keep some, but I didn’t want to discriminate. I will keep using their service. I did the same for the Facebook and LinkedIn profiles, connections are more and more worthless online. I want to consume web and participate in conversations in a different way, in a way that doesn’t put me in center of action (attention) or at least I shouldn’t be aware of that. Well, that’s because I’m not that kind of person.
