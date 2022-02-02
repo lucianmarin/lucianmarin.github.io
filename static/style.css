@@ -119,12 +119,12 @@ sup {
     color: var(--gray);
 }
 
-.sidebar ul li:first-child h4 {
-    padding-top: 0;
+.sidebar ul {
+    margin-bottom: 10px;
 }
 
-.sidebar ul h4 {
-    padding-top: 10px;
+.sidebar ul:last-child {
+    margin-bottom: 0;
 }
 
 .article a {

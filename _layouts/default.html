@@ -25,18 +25,16 @@
         {% endif %}
     </div>
     <div class="sidebar">
-        <ul>
-            {% for post in site.posts %}
-                {% capture month %}{{ post.date | date: '%Y' }}{% endcapture %}
-                {% capture next_month %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-                {% if month != next_month %}
-                    {% if forloop.index != 1 %}</li></ul>{% endif %}
-                    <li>
-                    <h4>{{ post.date | date: '%Y' }}</h4>
-                    <ul>
-                {% endif %}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
+        {% for post in site.posts %}
+            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+            {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+            {% if year != next_year %}
+                {% if forloop.index != 1 %}</ul>{% endif %}
+                <h4>{{ year }}</h4>
+                <ul>
+            {% endif %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
         </ul>
     </div>
     <div class="rightside"></div>
