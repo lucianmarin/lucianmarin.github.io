@@ -3,7 +3,7 @@ description: Python Developer
 url: https://lucianmarin.github.io
 
 relative_permalinks: false
-permalink: /:year/:title
+permalink: /:year/:title.html
 
 exclude: [readme.md]
 incremental: true
