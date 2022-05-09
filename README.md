@@ -1,6 +1,7 @@
 # lucianmarin.github.io
 
-This is the personal blog of Lucian Marin.
+This is the (very) personal log of Lucian Marin.
 
-- Social: [subreply.com/lucian](https://subreply.com/lucian)
-- Website: [lucianmarin.com](https://lucianmarin.com/)
+You can find me as [@lucian](https://subreply.com/lucian) on Subreply.
+
+I have a [product portfolio](https://lucianmarin.com/) of apps and sites.
