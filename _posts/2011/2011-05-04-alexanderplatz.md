@@ -5,8 +5,6 @@ title: Berlin Alexanderplatz
 
 After my trip in Germany was over, I made myself a present: a compact camera, a Nikon P300. Then, by taking a picture in low light of some books, I noticed that in our small library there’s a special book. This book is called [Berlin Alexanderplatz](http://en.wikipedia.org/wiki/Berlin_Alexanderplatz) and was written by Alfred Döblin. After this coincidence occurred, I decided that Berlin deserves an article in my journal. Why? Because Alexanderplatz is one of the nicest places in Berlin and before I left the city, I went back to Charlie Checkpoint, somewhere near Alexanderplatz to buy some souvenirs.
 
-**![Books Showing Berlin Alexanderplatz](/images/berlin-book.jpg)**
-
 Berlin is called the City of Stones and the City of Smoke by Jason Lutes in two of his comic books. I will use the same names to describe the Berlin I saw and I liked and somehow, disliked.
 
 #### The city of stones
@@ -20,7 +18,5 @@ From the impressive Fernsehturm, the TV tower, down to architecture of each chur
 What I didn’t like about Berlin is maybe the american influence. Don’t get me wrong, I’m not against americans, I’m against their influence in some parts of the world. What I wanted to see in Berlin was people coming from multiple parts of the world and get along with each other. But, I didn’t like the fact that all those people were embracing the american culture, instead of joining the german culture which in fact has more to offer that the other one.
 
 Walking down the streets of Berlin I was amazed to notice muslims, jews, black people and going to Alexanderplatz there was very few people speaking German. I was listening to people speaking French, Italian, Spanish and lots of people speaking English. I was thinking… how many Romanians are living in Berlin?
-
-**![Pictures of Berlin](/images/berlin-grid.jpg)**
 
 I also took some pictures along the way, which are in fact [two collections](/photo/picplz.html) posted on PicPlz: Berlin and German Countryside. For those pictures I used just a cellphone, a Sony Ericsson K800i — I think I pushed it to its limits. That’s the reason why I wanted to buy myself a real camera when I went back home.
