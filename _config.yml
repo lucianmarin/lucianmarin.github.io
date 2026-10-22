@@ -2,8 +2,7 @@ name: Lucian Marin
 description: Python developer and all things tech
 url: https://lucianmarin.github.io
 
-relative_permalinks: false
 permalink: /:year/:title.html
 
-exclude: [readme.md]
+exclude: [README.md, LICENCE]
 incremental: true
