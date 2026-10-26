@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Berlin Alexanderplatz
+images: 2
 ---
 
 After my trip in Germany was over, I made myself a present: a compact camera, a Nikon P300. Then, by taking a picture in low light of some books, I noticed that in our small library there’s a special book. This book is called [Berlin Alexanderplatz](http://en.wikipedia.org/wiki/Berlin_Alexanderplatz) and was written by Alfred Döblin. After this coincidence occurred, I decided that Berlin deserves an article in my journal. Why? Because Alexanderplatz is one of the nicest places in Berlin and before I left the city, I went back to Charlie Checkpoint, somewhere near Alexanderplatz to buy some souvenirs.
