@@ -52,7 +52,8 @@ h1 {
 }
 
 sup {
-    font-size: 10px;
+    color: var(--gray);
+    font-size: 9px;
     line-height: 0;
 }
 
