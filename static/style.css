@@ -184,11 +184,7 @@ sup {
 
 @media (max-width: 720px) {
     .container {
-        grid-template-columns: 1fr;
-    }
-    .leftside,
-    .rightside {
-        display: none;
+        grid-template-columns: 0 calc(100% / 3 * 2) calc(100% / 3) 0;
     }
 }
 
