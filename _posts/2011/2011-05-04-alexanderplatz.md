@@ -23,4 +23,4 @@ Walking down the streets of Berlin I was amazed to notice muslims, jews, black p
 
 **![Pictures of Berlin](/images/berlin-grid.jpg)**
 
-I also took some pictures along the way, which are in fact [two collections](/photo/picplz.html) posted on PicPlz: Berlin and German Countryside. For those pictures I used just a cellphone, a Sony Ericsson K800i — I think I pushed it to its limits. That’s the reason why I wanted to buy myself a real camera when I went back home.
+I also took some pictures along the way, which are in fact [two collections](https://instagram.com/lucianmarin) posted on PicPlz: Berlin and German Countryside. For those pictures I used just a cellphone, a Sony Ericsson K800i — I think I pushed it to its limits. That’s the reason why I wanted to buy myself a real camera when I went back home.
