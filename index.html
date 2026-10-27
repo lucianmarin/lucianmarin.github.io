@@ -5,7 +5,7 @@ permalink:  /
 ---
 
 <div class="list">
-    {% assign latest = site.posts | slice: 0, 10 %}
+    {% assign latest = site.posts | slice: 0, 12 %}
     {% for post in latest %}
         <div class="entry">
             <p class="small">{{ post.date | date: '%B %e, %Y' }}</p>
