@@ -3,7 +3,7 @@ layout: default
 title: Samurai Jesus
 ---
 
-Samurai Jesus is an anti-concept: two complete moral archetypes forced together that cancel each other out.
+The anti-concept of Samurai Jesus: two complete moral archetypes forced together that cancel each other out.
 
 The Samurai lives by Bushido — loyalty to a master, honor through obedience, readiness to kill and to die on command. Jesus preaches the opposite — no master but God, no enemy but hate, love your enemies, turn the other cheek, put down the sword.
 
