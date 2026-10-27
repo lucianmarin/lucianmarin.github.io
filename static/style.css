@@ -105,6 +105,11 @@ sup {
     color: var(--gray);
 }
 
+.entry .small a {
+    color: var(--gray);
+    text-decoration: none;
+}
+
 .sidebar {
     background-color: var(--whitesmoke);
     padding: 20px;
@@ -168,11 +173,12 @@ sup {
 }
 
 .article pre {
-    background-color: var(--gainsboro);
-    white-space: pre-wrap;
-    padding: 10px 20px;
+    background-color: var(--whitesmoke);
+    border-right: var(--white) 2px solid;
     margin: 0 -20px;
     margin-bottom: 10px;
+    padding: 10px 20px;
+    white-space: pre-wrap;
 }
 
 .article pre code {
