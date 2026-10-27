@@ -3,7 +3,7 @@ layout: default
 title: Zerovital
 ---
 
-[Zerovital](https://zero.lucianmarin.com/) is a pun on Gerovital that trades the myth of H3 for the biology of IGF-1: keeping insulin and IGF-1 signaling low does more for your health and longevity than any procaine formula ever developed by the Romanian anti-aging company.
+[Zerovital](https://zero.lucianmarin.com/) is a pun on [Gerovital](https://en.wikipedia.org/wiki/Gerovital) that trades the myth of H3 for the biology of IGF-1: keeping insulin and IGF-1 signaling low does more for your health and longevity than any procaine formula ever developed by the Romanian anti-aging company.
 
 Gerovital H3 — the procaine hydrochloride formula developed in the 1950s by Ana Aslan and commercialized by Farmec in Romania — was marketed as a youth-restoring miracle, yet controlled clinical reviews and a U.S. National Institute on Aging evaluation found no reproducible evidence that it slows biological aging or extends lifespan. Procaine is rapidly hydrolyzed in the bloodstream into para-aminobenzoic acid (PABA) and diethylaminoethanol (DEAE), acting primarily as a short-lived local anesthetic and weak monoamine oxidase (MAO) inhibitor rather than addressing cellular senescence.
 
