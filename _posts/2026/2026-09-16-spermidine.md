@@ -3,7 +3,7 @@ layout: default
 title: Spermidine Diet
 ---
 
-The Spermidine Diet is a way of eating designed to raise spermidine through two complementary routes: direct intake and indirect production.
+A way of eating designed to raise spermidine through two complementary routes: direct intake and indirect production — this is what Spermidine Diet is all about.
 
 #### Direct route: eat spermidine-rich and fermented foods
 
