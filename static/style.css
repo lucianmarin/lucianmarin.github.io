@@ -161,7 +161,7 @@ sup {
 }
 
 .article blockquote {
-    border-left: 5px var(--gainsboro) solid;
+    border-left: 5px var(--whitesmoke) solid;
     color: var(--gray);
     margin-left: -20px;
     padding-left: 15px;
