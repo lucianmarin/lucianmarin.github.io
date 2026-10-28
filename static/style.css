@@ -161,15 +161,10 @@ sup {
 }
 
 .article blockquote {
-    background-color: var(--gainsboro);
-    color: var(--black);
-    margin: 0 -20px;
-    margin-bottom: 10px;
-    padding: 10px 20px;
-}
-
-.article blockquote p {
-    margin-bottom: 0;
+    border-left: 5px var(--gainsboro) solid;
+    color: var(--gray);
+    margin-left: -20px;
+    padding-left: 15px;
 }
 
 .article pre {
