@@ -10,8 +10,7 @@ permalink:  /
         <div class="entry">
             <p class="small">{{ post.date | date: '%B %e, %Y' }}</p>
             <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-            {% assign paragraph = post.content | markdownify | split: "</p>" | first | strip_html | strip %}
-            <p>{{ paragraph }}</p>
+            <p>{{ post.content | markdownify | split: "</p>" | first | strip_html | strip }}</p>
         </div>
     {% endfor %}
     <div class="entry">
