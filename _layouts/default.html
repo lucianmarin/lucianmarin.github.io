@@ -35,7 +35,7 @@
                 <h4>{{ year }}</h4>
                 <ul>
             {% endif %}
-            <li><a href="{{ post.url }}">{{ post.title }}{% if post.images == 1 %} <sup>JPG</sup>{% elsif post.images > 1 %} <sup>{{ post.images }} JPGs</sup>{% endif %}</a></li>
+            <li><a href="{{ post.url }}">{{ post.title }}{% if post.images == 1 %} <sup>JPG</sup>{% elsif post.images > 1 %} <sup>{{ post.images }} JPGs</sup>{% endif %}{% if post.code %} <sup>CODE</sup>{% endif %}</a></li>
         {% endfor %}
         </ul>
     </div>
