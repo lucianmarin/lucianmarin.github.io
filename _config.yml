@@ -4,5 +4,5 @@ url: https://lucianmarin.github.io/
 
 permalink: /:year/:title.html
 
-exclude: [README.md, LICENCE]
+exclude: [README.md, LICENSE]
 incremental: true
