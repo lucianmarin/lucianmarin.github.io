@@ -1,5 +1,7 @@
 # lucianmarin.github.io
 
+![screenshot](screenshot.png)
+
 Personal blog and log of Lucian Marin, built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages at [lucianmarin.github.io](https://lucianmarin.github.io/).
 
 - Subreply: [@lucian](https://subreply.com/lucian)
